@@ -4,6 +4,7 @@ StudyBuddy is a website designed to help facilitate group meetups. It provides a
 
 ## Technologies used
 - RESTful API's
+
 ⋅⋅⋅ Firebase
 ⋅⋅⋅ WeatherUnderground
 ⋅⋅⋅ Google Maps
